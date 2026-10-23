@@ -1,0 +1,2 @@
+Buzón de renovaciones de licencias.
+Este repositorio lo escribe el Generador de Licencias. No edites ni borres la carpeta b.
